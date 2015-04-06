@@ -3,15 +3,14 @@ Blog with milestones
 
 - Add new README.md file  > https://github.com/petrosh/DayStone/new/master?readme=1  
 - Add new filename        > https://github.com/petrosh/DayStone/new/master?filename=LICENSE.md  
-- Add inside new folder   > https://github.com/petrosh/DayStone/new/gh-pages/nitsx
-
+- Add inside new folder   > https://github.com/petrosh/DayStone/new/gh-pages/nitsx  
 - [fork-n-go](http://jlord.us/forkngo/)  
 - [getpoole](http://getpoole.com/)  
 - [authentication](https://developer.github.com/guides/getting-started/#authentication)  
 - [diarissues](https://github.com/petrosh/diarissues)  
 - [writing on github](https://help.github.com/articles/writing-on-github/)  
-- [apply css to iframe](http://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe/217833#217833)
-- [ajax crawling](https://developers.google.com/webmasters/ajax-crawling/docs/specification)
+- [apply css to iframe](http://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe/217833#217833)  
+- [ajax crawling](https://developers.google.com/webmasters/ajax-crawling/docs/specification)  
   ```<meta name="fragment" content="!">```
 
 ## Features
