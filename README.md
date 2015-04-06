@@ -17,8 +17,8 @@ Blog with milestones
 
 - Search: [simpleJekyllSearch](https://github.com/petrosh/raveup/blob/gh-pages/assets/js/simpleJekyllSearch.js)  
 - Post: [searching issues](https://help.github.com/articles/searching-issues/)
-- Change date: [use milestones due date](https://github.com/petrosh/DayStone/milestones)
-- Category: [labels](https://github.com/petrosh/DayStone/labels)
+- Milestone (single): [for Draft or due date](https://github.com/petrosh/DayStone/milestones)
+- Category (multiple): [labels](https://github.com/petrosh/DayStone/labels)
 
 ## Workflow
 
