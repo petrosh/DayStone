@@ -13,3 +13,7 @@ or https://github.com/petrosh/DayStone/new/master?filename=LICENSE.md
 - [diarissues](https://github.com/petrosh/diarissues)
 
 - [writing on github](https://help.github.com/articles/writing-on-github/)
+
+## Features
+
+- Search: [simpleJekyllSearch](https://github.com/petrosh/raveup/blob/gh-pages/assets/js/simpleJekyllSearch.js)
