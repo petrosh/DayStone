@@ -1,8 +1,9 @@
 # DayStone
 Blog with milestones
 
-- Link to this entry form was https://github.com/petrosh/DayStone/new/master?readme=1  
-or https://github.com/petrosh/DayStone/new/master?filename=LICENSE.md  
+- Add new README.md file  > https://github.com/petrosh/DayStone/new/master?readme=1  
+- Add new filename        > https://github.com/petrosh/DayStone/new/master?filename=LICENSE.md  
+- Add inside new folder   > https://github.com/petrosh/DayStone/new/gh-pages/nitsx
 
 - [fork-n-go](http://jlord.us/forkngo/)  
 - [getpoole](http://getpoole.com/)  
