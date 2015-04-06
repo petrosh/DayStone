@@ -20,3 +20,8 @@ or https://github.com/petrosh/DayStone/new/master?filename=LICENSE.md
 - Change date: [use milestones due date](https://github.com/petrosh/DayStone/milestones)
 - Category: [labels](https://github.com/petrosh/DayStone/labels)
 
+## Workflow
+
+- New post > https://github.com/petrosh/DayStone/issues/new
+- Edit post > https://github.com/petrosh/DayStone/issues/2 (for #2)
+- New/Edit label > https://github.com/petrosh/DayStone/labels
