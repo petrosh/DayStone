@@ -6,10 +6,10 @@ Blog with milestones
 - Add inside new folder   > https://github.com/petrosh/DayStone/new/gh-pages/nitsx  
 - [fork-n-go](http://jlord.us/forkngo/)  
 - [getpoole](http://getpoole.com/)  
+- [github css](https://github.com/sindresorhus/github-markdown-css)
 - [authentication](https://developer.github.com/guides/getting-started/#authentication)  
 - [diarissues](https://github.com/petrosh/diarissues)  
 - [writing on github](https://help.github.com/articles/writing-on-github/)  
-- [apply css to iframe](http://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe/217833#217833)  
 - [ajax crawling](https://developers.google.com/webmasters/ajax-crawling/docs/specification)  
   ```<meta name="fragment" content="!">```
 
