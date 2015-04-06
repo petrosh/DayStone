@@ -23,5 +23,5 @@ Blog with milestones
 ## Workflow
 
 - New post > https://github.com/petrosh/DayStone/issues/new
-- Edit post > https://github.com/petrosh/DayStone/issues/2 (for #2)
+- Edit post > https://github.com/petrosh/DayStone/issues/2 (for petrosh/DayStone#2)
 - New/Edit label > https://github.com/petrosh/DayStone/labels
